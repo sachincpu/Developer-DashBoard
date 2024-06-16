@@ -1,0 +1,42 @@
+.Chart {
+    font-family: Arial, sans-serif;
+  }
+  
+  .recharts-wrapper {
+    fill: #8884d8;
+  }
+  
+  .recharts-text {
+    font-size: 14px;
+    fill: #333;
+  }
+  
+  .recharts-legend {
+    font-size: 14px;
+    fill: #333;
+  }
+  
+  .recharts-tooltip {
+    font-size: 14px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .recharts-tooltip-label {
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .recharts-tooltip-item {
+    color: #666;
+  }
+  
+  .recharts-bar-rectangle {
+    fill-opacity: 0.8;
+    transition: fill-opacity 0.2s;
+  }
+  
+  .recharts-bar-rectangle:hover {
+    fill-opacity: 1;
+  }
